@@ -1,0 +1,20 @@
+{
+  "name": "node-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "node-sass": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "try",
+    "node",
+    "sass"
+  ],
+  "author": "tmq",
+  "license": "ISC"
+}
