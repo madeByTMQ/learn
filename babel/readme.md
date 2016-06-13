@@ -1,0 +1,4 @@
+#babel使用心得
+
+babel加上es2015，react等可以转换es6的语法和jsx语法，但是不转换es6中心的api，如（promise 等）。如果要转换这些新api，需要安装babel-polyill，这个包比较大，在浏览器中直接使用script标签引入和通过webpack等打包工具require进来都是比较庞大的一个js库。
+在使用es6的新api时要尽量甄别使用。
